@@ -78,7 +78,7 @@ This project applies exploratory data analysis (EDA) and a deep learning Artific
 ---
 
 ## 📁 Repository Structure
-
+```
 Customer-Churn-Prediction-Using-Deep-Learning-and-SHAP-Explainability/
 ├── model/
 │   ├── saved_model (1).pb
@@ -86,7 +86,8 @@ Customer-Churn-Prediction-Using-Deep-Learning-and-SHAP-Explainability/
 │   └── variables/
 │       ├── variables.data-00000-of-00001
 │       └── variables.index
-├── Telco-Customer-Churn.csv              # Dataset file
+├── Telco-Customer-Churn.csv                        # Dataset file
 ├── EDA_and_ANN_Telco_Customer_Churn_Predictions.ipynb  # Jupyter Notebook
-├── Churn Prediction.pptx                 # Presentation (optional for showcase)
-├── README.md  
+├── Churn Prediction.pptx                           # Presentation (optional for showcase)
+├── README.md                                       # Project documentation
+```
