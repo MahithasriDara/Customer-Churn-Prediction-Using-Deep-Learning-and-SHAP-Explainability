@@ -88,6 +88,5 @@ Customer-Churn-Prediction-Using-Deep-Learning-and-SHAP-Explainability/
 │       └── variables.index
 ├── Telco-Customer-Churn.csv                        # Dataset file
 ├── EDA_and_ANN_Telco_Customer_Churn_Predictions.ipynb  # Jupyter Notebook
-├── Churn Prediction.pptx                           # Presentation (optional for showcase)
 ├── README.md                                       # Project documentation
 ```
